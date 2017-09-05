@@ -1,0 +1,38 @@
+/* @keyframes XJ{
+	from{
+			left:0px;
+	    }
+	to{
+		left:-1050px;	
+	}
+}
+@-webkit-keyframes XJ{
+	from{
+			left:0px;
+	    }
+	to{
+		left:1290px;	
+	}
+} */
+@keyframes up{
+	0%{
+			margin-top:0px;
+	    }
+	50%{
+			margin-top:-50px;
+	    }
+	100%{
+			margin-top:0px;
+	}
+}
+@-webkit-keyframes up{
+	0%{
+			margin-top:0px;
+	    }
+	50%{
+			margin-top:-50px;
+	    }
+	100%{
+			margin-top:0px;
+	}
+}

@@ -1,0 +1,389 @@
+*{
+	font-size: 18px;
+}
+.wel{
+	background:url("../images/welcome.jpg") center no-repeat;
+}
+.wel-t{
+	background: url("../images/cz-2.png") bottom left no-repeat;
+	color: #000;	
+}
+.container p{
+	font-size: 25px;
+	font-weight: bold;
+}
+.page-header{
+	color: #000;
+	margin-bottom:50px;
+	border-bottom: solid 1px #CCC;
+}
+.nav{
+	margin-bottom:25px;
+}
+.col-md-6{
+	position: relative;
+	overflow: hidden;
+	height:1000px;
+}
+.RJ{
+	display: block;
+}
+.RJ div p{
+	font-size: 18px;
+	font-weight: normal;
+	text-align: left;
+	text-indent:36px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+.every-t{
+	margin-bottom:25px;
+}
+/* 湘江战役*/
+ .XJ{
+	position: relative;
+	display: none;
+}
+.XJ-img{
+	position: absolute;
+	width: 1290px;
+}
+.XJ-img img{
+	float: left;
+}
+
+.XJ-txt{
+	position: absolute;
+	top:240px;
+}
+.XJ-txt p{
+	font-size: 18px;
+	font-weight: normal;
+	text-align: left;
+	text-indent:36px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+/* 通道会议 */
+.TD{
+	display: none;
+}
+.TD div p{
+	font-size: 18px;
+	font-weight: normal;
+	text-align: left;
+	text-indent:36px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+/* 黎平会议*/
+.LP{
+	display: none;
+}
+.LP div p{
+	font-size: 18px;
+	font-weight: normal;
+	text-align: left;
+	text-indent:36px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+/* 强度乌江天险*/
+.QD{
+	position: relative;
+	display: none;
+}
+.QD-img{
+	position: absolute;
+	width: 1120px;
+}
+.QD-img img{
+	float: left;
+}
+
+.QD-txt{
+	position: absolute;
+	top:240px;
+}
+.QD-txt p{
+	font-size: 18px;
+	font-weight: normal;
+	text-align: left;
+	text-indent:36px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+/* 遵义会议 */
+.JY{
+	display: none;
+}
+.JY div p{
+	font-size: 18px;
+	font-weight: normal;
+	text-align: left;
+	text-indent:36px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+/* 四渡赤水河*/
+.SD{
+	position: relative;
+	display: none;
+}
+.SD-img{
+	position: absolute;
+	width: 665px;
+}
+.SD-img img{
+	float: left;
+}
+
+.SD-txt{
+	position: absolute;
+	top:240px;
+}
+.SD-txt p{
+	font-size: 18px;
+	font-weight: normal;
+	text-align: left;
+	text-indent:36px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+/* 巧渡金沙江*/
+.JS{
+	position: relative;
+	display: none;
+}
+.JS-img{
+	position: absolute;
+	width: 560px;
+}
+.JS-img img{
+	float: left;
+}
+
+.JS-txt{
+	position: absolute;
+	top:240px;
+}
+.JS-txt p{
+	font-size: 18px;
+	font-weight: normal;
+	text-align: left;
+	text-indent:36px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+/* 会理会议 */
+.HL{
+	display: none;
+}
+.HL div p{
+	font-size: 18px;
+	font-weight: normal;
+	text-align: left;
+	text-indent:36px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+/* 强渡大渡河*/
+.DDH{
+	position: relative;
+	display: none;
+}
+.DDH-img{
+	position: absolute;
+	width: 750px;
+}
+.DDH-img img{
+	float: left;
+}
+
+.DDH-txt{
+	position: absolute;
+	top:240px;
+}
+.DDH-txt p{
+	font-size: 18px;
+	font-weight: normal;
+	text-align: left;
+	text-indent:36px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+/* 飞夺泸定桥*/
+.LD{
+	position: relative;
+	display: none;
+}
+.LD-img{
+	position: absolute;
+	width: 665px;
+}
+.LD-img img{
+	float: left;
+}
+
+.LD-txt{
+	position: absolute;
+	top:240px;
+}
+.LD-txt p{
+	font-size: 18px;
+	font-weight: normal;
+	text-align: left;
+	text-indent:36px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+/* 两河口会议 */
+.LHK{
+	display: none;
+}
+.LHK div p{
+	font-size: 18px;
+	font-weight: normal;
+	text-align: left;
+	text-indent:36px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+/* 毛儿盖会议 */
+.MEG{
+	display: none;
+}
+.MEG div p{
+	font-size: 18px;
+	font-weight: normal;
+	text-align: left;
+	text-indent:36px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+/* 包座战役 */
+.BZ{
+	display: none;
+}
+.BZ div p{
+	font-size: 18px;
+	font-weight: normal;
+	text-align: left;
+	text-indent:36px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+/* 巴西会议*/
+.BX{
+	position: relative;
+	display: none;
+}
+.BX-img{
+	position: absolute;
+	width: 950px;
+}
+.BX-img img{
+	float: left;
+}
+
+.BX-txt{
+	position: absolute;
+	top:240px;
+}
+.BX-txt p{
+	font-size: 18px;
+	font-weight: normal;
+	text-align: left;
+	text-indent:36px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+/* 俄界政治局扩大会议 */
+
+.EJ{
+	display: none;
+}
+.EJ div p{
+	font-size: 18px;
+	font-weight: normal;
+	text-align: left;
+	text-indent:36px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+
+/* 激战腊子口 */
+.LZK{
+	position: relative;
+	display: none;
+}
+.LZK-img{
+	position: absolute;
+	width: 720px;
+}
+.LZK-img img{
+	float: left;
+}
+
+.LZK-txt{
+	position: absolute;
+	top:240px;
+}
+.LZK-txt p{
+	font-size: 18px;
+	font-weight: normal;
+	text-align: left;
+	text-indent:36px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+/* 吴起镇会议 */
+.WQZ{
+	position: relative;
+	display: none;
+}
+.WQZ-img{
+	position: absolute;
+	width: 800px;
+}
+.WQZ-img img{
+	float: left;
+}
+
+.WQZ-txt{
+	position: absolute;
+	top:240px;
+}
+.WQZ-txt p{
+	font-size: 18px;
+	font-weight: normal;
+	text-align: left;
+	text-indent:36px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+/*  */
+.HN{
+	position: relative;
+	display: none;
+}
+.HN-img{
+	position: absolute;
+	width: 1160px;
+}
+.HN-img img{
+	float: left;
+}
+
+.HN-txt{
+	position: absolute;
+	top:240px;
+}
+.HN-txt p{
+	font-size: 18px;
+	font-weight: normal;
+	text-align: left;
+	text-indent:36px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
